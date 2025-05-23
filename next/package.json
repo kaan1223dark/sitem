@@ -24,7 +24,7 @@
     "@fullcalendar/core": "^6.1.15",
     "@fullcalendar/daygrid": "^6.1.15",
     "@fullcalendar/react": "^6.1.15",
-    "@fullcalendar/timegrid": "^6.1.15",
+    "@fullcalendar/timegrid": "^6.1.17",
     "@marsidev/react-turnstile": "^1.0.2",
     "@prisma/client": "^6.0.1",
     "@react-email/components": "0.0.25",
