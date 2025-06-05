@@ -1,0 +1,8 @@
+/* [project]/src/components/MobileHamburger/MobileHamburger.css [app-client] (css) */
+.menu li > :not(ul, .menu-title, details, .btn):active, .menu li > :not(ul, .menu-title, details, .btn).active, .menu li > details > summary:active {
+  --tw-bg-opacity: 1;
+  background-color: rgb(232 233 235 / var(--tw-bg-opacity, 1));
+  color: inherit;
+}
+
+/*# sourceMappingURL=src_components_MobileHamburger_MobileHamburger_b52d8e88.css.map*/

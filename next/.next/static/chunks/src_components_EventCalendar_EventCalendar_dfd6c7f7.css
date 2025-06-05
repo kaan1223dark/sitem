@@ -1,0 +1,124 @@
+/* [project]/src/components/EventCalendar/EventCalendar.css [app-client] (css) */
+.fc-view {
+  --tw-bg-opacity: 1;
+  background-color: rgb(255 255 255 / var(--tw-bg-opacity, 1));
+}
+
+.fc-media-screen {
+  width: 100%;
+}
+
+.fc .fc-button-primary {
+  border-style: none;
+  --tw-bg-opacity: 1;
+  background-color: rgb(120 126 186 / var(--tw-bg-opacity, 1));
+  font-weight: 600;
+  transition-property: color, background-color, border-color, text-decoration-color, fill, stroke;
+  transition-duration: .2s;
+  transition-timing-function: cubic-bezier(.4, 0, .2, 1);
+}
+
+.fc .fc-button-primary:disabled {
+  cursor: not-allowed;
+  border-style: none;
+  --tw-bg-opacity: 1;
+  background-color: rgb(120 126 186 / var(--tw-bg-opacity, 1));
+}
+
+.fc .fc-button-primary:not(:disabled).fc-button-active, .fc .fc-button-primary:not(:disabled):active {
+  --tw-bg-opacity: 1;
+  background-color: rgb(92 97 163 / var(--tw-bg-opacity, 1));
+}
+
+.fc .fc-col-header-cell-cushion {
+  font-size: .75rem;
+  line-height: 1rem;
+}
+
+.fc .fc-button-primary:hover {
+  --tw-bg-opacity: 1;
+  background-color: rgb(92 97 163 / var(--tw-bg-opacity, 1));
+}
+
+.fc-h-event {
+  border-style: none;
+  --tw-bg-opacity: 1;
+  background-color: rgb(120 126 186 / var(--tw-bg-opacity, 1));
+}
+
+.fc-theme-standard .fc-popover-header {
+  border-top-left-radius: .5rem;
+  border-top-right-radius: .5rem;
+  --tw-bg-opacity: 1;
+  background-color: rgb(120 126 186 / var(--tw-bg-opacity, 1));
+  --tw-text-opacity: 1;
+  color: rgb(255 255 255 / var(--tw-text-opacity, 1));
+}
+
+.fc .fc-popover-title {
+  font-weight: 600;
+}
+
+.fc .fc-popover-close {
+  opacity: 1;
+}
+
+.fc .fc-popover {
+  border-radius: .5rem;
+}
+
+.fc-event-selected, .fc-event:focus {
+  border-style: none;
+  --tw-bg-opacity: 1;
+  background-color: rgb(120 126 186 / var(--tw-bg-opacity, 1));
+  --tw-text-opacity: 1;
+  color: rgb(255 255 255 / var(--tw-text-opacity, 1));
+}
+
+.fc .fc-timegrid-axis-cushion {
+  font-size: .75rem;
+  line-height: 1rem;
+}
+
+.fc-daygrid-dot-event.fc-event-mirror, .fc-daygrid-dot-event:hover {
+  border-style: none;
+  --tw-bg-opacity: 1;
+  background-color: rgb(120 126 186 / var(--tw-bg-opacity, 1));
+  --tw-text-opacity: 1;
+  color: rgb(255 255 255 / var(--tw-text-opacity, 1));
+}
+
+.fc-v-event {
+  border-style: none;
+  --tw-bg-opacity: 1;
+  background-color: rgb(120 126 186 / var(--tw-bg-opacity, 1));
+}
+
+.fc .fc-toolbar-title {
+  font-size: 1.5rem;
+  line-height: 2rem;
+  font-weight: 600;
+  text-transform: capitalize;
+}
+
+@media not all and (width >= 1024px) {
+  .fc .fc-toolbar-title {
+    font-size: .75rem;
+    line-height: 1rem;
+  }
+}
+
+.fc .fc-toolbar {
+  flex-direction: row;
+  gap: .5rem;
+}
+
+@media not all and (width >= 1024px) {
+  .fc .fc-toolbar {
+    font-size: .75rem;
+    line-height: 1rem;
+  }
+}
+
+
+/*# sourceMappingURL=src_components_EventCalendar_EventCalendar_dfd6c7f7.css.map*/

@@ -1,0 +1,17 @@
+/* [project]/src/components/NotificationBar/NotificationBar.css [app-client] (css) */
+.notification-area a {
+  cursor: pointer;
+  text-decoration-line: underline;
+}
+
+.notification-area a:focus {
+  outline: 2px solid #0000;
+  outline-offset: 2px;
+}
+
+.notification-area a:focus-visible {
+  outline: 2px solid;
+  outline-offset: 2px;
+}
+
+/*# sourceMappingURL=src_components_NotificationBar_NotificationBar_b52d8e88.css.map*/

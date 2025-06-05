@@ -1,0 +1,38 @@
+{
+  "node": {
+    "7fa0376e0378ee12c6beff709c4be66701a9b243e6": {
+      "workers": {
+        "app/[lang]/(content-pages)/feedback/page": {
+          "moduleId": "[project]/.next-internal/server/app/[lang]/(content-pages)/feedback/page/actions.js { ACTIONS_MODULE0 => \"[project]/src/actions/auth.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE1 => \"[project]/src/actions/email-send-feedback.ts [app-rsc] (ecmascript)\" } [app-rsc] (server actions loader, ecmascript)",
+          "async": false
+        }
+      },
+      "layer": {
+        "app/[lang]/(content-pages)/feedback/page": "action-browser"
+      }
+    },
+    "7fd2bf55fea4e4faef504338e5c9aa4e0e644cf712": {
+      "workers": {
+        "app/[lang]/(content-pages)/feedback/page": {
+          "moduleId": "[project]/.next-internal/server/app/[lang]/(content-pages)/feedback/page/actions.js { ACTIONS_MODULE0 => \"[project]/src/actions/auth.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE1 => \"[project]/src/actions/email-send-feedback.ts [app-rsc] (ecmascript)\" } [app-rsc] (server actions loader, ecmascript)",
+          "async": false
+        }
+      },
+      "layer": {
+        "app/[lang]/(content-pages)/feedback/page": "action-browser"
+      }
+    },
+    "605840c85de13a9a15e91471ffd6088bfd7dcba429": {
+      "workers": {
+        "app/[lang]/(content-pages)/feedback/page": {
+          "moduleId": "[project]/.next-internal/server/app/[lang]/(content-pages)/feedback/page/actions.js { ACTIONS_MODULE0 => \"[project]/src/actions/auth.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE1 => \"[project]/src/actions/email-send-feedback.ts [app-rsc] (ecmascript)\" } [app-rsc] (server actions loader, ecmascript)",
+          "async": false
+        }
+      },
+      "layer": {
+        "app/[lang]/(content-pages)/feedback/page": "action-browser"
+      }
+    }
+  },
+  "edge": {}
+}

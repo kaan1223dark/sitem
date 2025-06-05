@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 1, "column": 0}, "map": {"version":3,"sources":["turbopack:///[project]/src/components/NotificationBar/NotificationBar.css"],"sourcesContent":[".notification-area a {\n    cursor: pointer;\n    text-decoration-line: underline\n}\n.notification-area a:focus {\n    outline: 2px solid transparent;\n    outline-offset: 2px\n}\n.notification-area a:focus-visible {\n    outline: 2px solid currentColor;\n    outline-offset: 2px\n}\n"],"names":[],"mappings":"AAAA;;;;;AAIA;;;;;AAIA"}}]
+}

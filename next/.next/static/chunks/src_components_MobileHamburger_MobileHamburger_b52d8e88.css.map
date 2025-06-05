@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 1, "column": 0}, "map": {"version":3,"sources":["turbopack:///[project]/src/components/MobileHamburger/MobileHamburger.css"],"sourcesContent":[".menu li > *:not(ul, .menu-title, details, .btn):active,\n.menu li > *:not(ul, .menu-title, details, .btn).active,\n.menu li > details > summary:active {\n    --tw-bg-opacity: 1;\n    background-color: rgb(232 233 235 / var(--tw-bg-opacity, 1));\n    color: inherit\n}\n"],"names":[],"mappings":"AAAA"}}]
+}

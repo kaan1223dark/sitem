@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 7, "column": 0}, "map": {"version":3,"sources":["file://C%3A/Users/hu/Downloads/Compressed/luuppi-next-main4%20-%20Kopya/luuppi-next-main/next/src/app/%5Blang%5D/%28content-pages%29/payment/loading.tsx"],"sourcesContent":["export default function Loading() {\n  return (\n    <div className=\"relative flex flex-col items-center justify-center gap-6 text-center max-md:items-start max-md:text-start\">\n      <div className=\"skeleton h-12 w-96 max-w-full self-center\" />\n      <div className=\"skeleton h-6 w-full max-w-xl\" />\n      <div className=\"skeleton h-6 w-full max-w-xl\" />\n      <div className=\"skeleton h-6 w-full max-w-xl\" />\n      <div className=\"luuppi-pattern absolute -left-48 -top-10 -z-50 h-[701px] w-[801px] max-md:left-0 max-md:h-full max-md:w-full max-md:rounded-none\" />\n    </div>\n  );\n}\n"],"names":[],"mappings":";;;;;AAAe,SAAS;IACtB,qBACE,8OAAC;QAAI,WAAU;;0BACb,8OAAC;gBAAI,WAAU;;;;;;0BACf,8OAAC;gBAAI,WAAU;;;;;;0BACf,8OAAC;gBAAI,WAAU;;;;;;0BACf,8OAAC;gBAAI,WAAU;;;;;;0BACf,8OAAC;gBAAI,WAAU;;;;;;;;;;;;AAGrB","debugId":null}}]
+}
